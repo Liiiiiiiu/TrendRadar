@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T16:43:59.133056+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-26T17:45:41.089480+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 17时45分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时45分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗坚持不讨论弹道导弹是一个“非常非常严重的问题”。",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
+          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "伊朗谈判团队抵达阿曼驻日内瓦外交代表机构",
@@ -126,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -148,7 +160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -219,6 +231,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗与美国在日内瓦启动第三轮间接核谈判。",
+          "url": "https://flash.jin10.com/detail/20260226171910670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "外交部：中方正密切关注伊朗局势的发展",
           "url": "https://wallstreetcn.com/livenews/3059379",
           "source": "华尔街见闻-快讯",
@@ -228,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美国国务卿鲁比奥：周四的伊朗会谈将主要聚焦核计划。",
@@ -269,7 +303,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -307,6 +341,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "中方支持伊朗政府和人民维护国家稳定",
+          "url": "https://www.toutiao.com/trending/7610653794019885102/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
           "url": "https://flash.jin10.com/detail/20260226112411540800",
           "source": "金十数据",
@@ -327,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "伊朗外交部：本轮伊美谈判聚焦核问题",
+          "url": "https://wallstreetcn.com/livenews/3059449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美方公布新一轮涉伊朗制裁名单",
@@ -357,9 +413,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
+          "url": "https://wallstreetcn.com/livenews/3059447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "学者：伊朗的战略选择将牵动全球格局",
@@ -395,6 +462,17 @@
           "time_info": "13时56分"
         },
         {
+          "title": "中方回应“会否支持伊朗抵御美攻击”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%BC%9A%E5%90%A6%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E6%8A%B5%E5%BE%A1%E7%BE%8E%E6%94%BB%E5%87%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：基于此前会谈达成的共识，我们可以达成协议。伊朗武装部队随时准备执行任务；我们知道如何保卫自己。",
           "url": "https://flash.jin10.com/detail/20260226003333011800",
           "source": "金十数据",
@@ -412,7 +490,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -423,7 +501,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
@@ -488,11 +566,23 @@
           "ranks": [
             12,
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 17时45分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 17时45分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -517,17 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时44分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 16时43分]"
         },
         {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
@@ -599,6 +678,18 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时45分]"
+        },
+        {
           "title": "消息人士称，至少有10名参与调查美国总统特朗普的机密文件案件的美国联邦调查局（FBI）特工被解雇。",
           "url": "https://flash.jin10.com/detail/20260226092014459800",
           "source": "金十数据",
@@ -665,17 +756,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -693,7 +773,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -723,7 +803,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -734,8 +814,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 17时45分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -843,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
@@ -1029,11 +1120,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时45分]"
         }
       ]
     },
