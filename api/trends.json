@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:48:15.276503+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-04-10T22:45:44.526289+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 127,
+      "match_count": 130,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时36分 ~ 21时48分]"
+          "appearance_count": 12,
+          "time_info": "[07时36分 ~ 22时45分]"
         },
         {
           "title": "凤凰女记者：哈梅内伊哀悼仪式上，伊朗民众高喊“不要谈判”(图)",
@@ -157,6 +157,17 @@
           "time_info": "[15时23分 ~ 17时06分]"
         },
         {
+          "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时45分]"
+        },
+        {
           "title": "伊朗总统：伊朗绝不会抛弃黎巴嫩",
           "url": "https://www.toutiao.com/trending/7625866062126530614/",
           "source": "今日头条",
@@ -167,6 +178,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
+          "url": "https://news.ifeng.com/c/8sDPw4YiPBl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时45分]"
         },
         {
           "title": "中方担保伊朗官员不在谈判中被暗杀？外交部回应",
@@ -240,26 +262,16 @@
           "time_info": "[18时51分 ~ 19时45分]"
         },
         {
-          "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
           "source": "凤凰网",
           "ranks": [
-            1
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
-          "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
-          "url": "https://news.ifeng.com/c/8sDPw4YiPBl",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 22时45分]"
         },
         {
           "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
@@ -357,6 +369,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "美媒：以官员称伊朗正在征收海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260410223419119800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
           "url": "https://www.cls.cn/detail/2339689",
           "source": "财联社热门",
@@ -421,18 +444,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时36分]"
-        },
-        {
-          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
-          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时48分]"
         },
         {
           "title": "美以或对伊朗憋着更恶心后手？",
@@ -506,6 +517,18 @@
           "time_info": "[17时06分 ~ 21时48分]"
         },
         {
+          "title": "疑似涉伊朗战事内幕交易被曝",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%9B%9D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时45分]"
+        },
+        {
           "title": "伊军高官：伊朗地形将成入侵者的监狱",
           "url": "https://www.toutiao.com/trending/7625954913289945094/",
           "source": "今日头条",
@@ -518,6 +541,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时45分]"
         },
         {
           "title": "伊朗战事真的停火了吗",
@@ -580,6 +614,18 @@
           "time_info": "[18时51分 ~ 19时45分]"
         },
         {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 22时45分]"
+        },
+        {
           "title": "伊朗继续控制霍尔木兹海峡，北海原油价格创历史新高",
           "url": "https://flash.jin10.com/detail/20260410052501299800",
           "source": "金十数据",
@@ -616,6 +662,19 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 22时45分]"
+        },
+        {
           "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3769603",
           "source": "华尔街见闻",
@@ -639,17 +698,6 @@
           "time_info": "[05时43分 ~ 06时38分]"
         },
         {
-          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
-          "url": "https://www.zhihu.com/question/2025233700363727989",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时48分]"
-        },
-        {
           "title": "伊朗媒体：霍尔木兹海峡已完全关闭",
           "url": "https://m.thepaper.cn/newsDetail_forward_32930216",
           "source": "澎湃新闻",
@@ -661,28 +709,39 @@
           "time_info": "[01时04分 ~ 05时43分]"
         },
         {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时45分 ~ 21时48分]"
+          "time_info": "[21时47分 ~ 22时45分]"
         },
         {
-          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
-          "url": "https://wallstreetcn.com/articles/3769660",
-          "source": "华尔街见闻",
+          "title": "伊朗：美国不能放任以色列对黎杀戮",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E4%BB%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%B9%E9%BB%8E%E6%9D%80%E6%88%AE",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            9
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时45分 ~ 21时48分]"
+          "time_info": "[21时47分 ~ 22时45分]"
+        },
+        {
+          "title": "伊朗称美以袭击伊朗近900所大中小学",
+          "url": "https://www.toutiao.com/trending/7626669880279924777/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时45分]"
         },
         {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
@@ -697,17 +756,6 @@
           "time_info": "[10时10分 ~ 13时23分]"
         },
         {
-          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
-          "url": "https://wallstreetcn.com/articles/3769693",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
           "title": "伊朗最高领袖提出三点主张",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0",
           "source": "百度热搜",
@@ -718,17 +766,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 10时10分]"
-        },
-        {
-          "title": "伊朗：美国不能放任以色列对黎杀戮",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E4%BB%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%B9%E9%BB%8E%E6%9D%80%E6%88%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "伊朗外交关系战略委员会主席去世",
@@ -815,17 +852,6 @@
           "time_info": "[05时43分 ~ 06时38分]"
         },
         {
-          "title": "疑似涉伊朗战事内幕交易被曝",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%9B%9D%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
           "title": "消息人士称伊朗在黎巴嫩实现停火前不会与美国和谈",
           "url": "https://wallstreetcn.com/livenews/3085360",
           "source": "华尔街见闻-快讯",
@@ -898,17 +924,6 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "伊朗称美以袭击伊朗近900所大中小学",
-          "url": "https://www.toutiao.com/trending/7626669880279924777/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%9C%9F%E9%97%B4%E7%BE%8E%E5%86%9B%E6%B6%88%E8%80%97%E7%BA%A6760%E4%B8%87%E6%9D%AF%E5%92%96%E5%95%A1%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -949,7 +964,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -963,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "深度解析伊朗防空实力",
@@ -1158,7 +1184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1356,9 +1382,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "伊朗外交部发言人：进行停战谈判的前提是美国在所有战线，特别是在黎巴嫩，遵守停火承诺。",
@@ -1378,7 +1415,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1444,7 +1481,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1485,7 +1522,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -1496,8 +1533,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时10分 ~ 21时48分]"
+          "appearance_count": 11,
+          "time_info": "[10时10分 ~ 22时45分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -1683,13 +1720,24 @@
           "time_info": "[01时04分 ~ 07时36分]"
         },
         {
+          "title": "美国总统特朗普：Palantir Technologies已证明具备出色的作战能力和装备。问问我们的敌人就知道了！！",
+          "url": "https://flash.jin10.com/detail/20260410223332476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美官员：特朗普对以施压要求放缓袭击黎巴嫩",
           "url": "https://wallstreetcn.com/livenews/3085942",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1705,6 +1753,19 @@
           "time_info": "17时06分"
         },
         {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 22时45分]"
+        },
+        {
           "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
           "url": "https://www.cls.cn/detail/2339842",
           "source": "财联社热门",
@@ -1717,16 +1778,16 @@
           "time_info": "[10时10分 ~ 15时24分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
           "ranks": [
-            5,
-            9
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时45分 ~ 21时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时45分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -1766,18 +1827,6 @@
           "time_info": "[05时43分 ~ 06时38分]"
         },
         {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时48分]"
-        },
-        {
           "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
           "url": "https://news.ifeng.com/c/8sCrezhn1o8",
           "source": "凤凰网",
@@ -1801,6 +1850,18 @@
           "time_info": "[17时06分 ~ 18时51分]"
         },
         {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 22时45分]"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -1813,16 +1874,15 @@
           "time_info": "[10时10分 ~ 13时23分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时51分]"
+          "time_info": "[21时47分 ~ 22时45分]"
         },
         {
           "title": "特朗普，对鲤鱼宣战？",
@@ -1917,17 +1977,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时06分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
@@ -2292,7 +2341,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -2325,7 +2374,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -2366,7 +2415,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：OpenAI负责“星际之门”（Stargate）的高管Peter Hoeschele已离开公司。",
@@ -2389,6 +2438,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
@@ -2448,6 +2519,56 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度下跌3.47%，报73.98美元。",
+          "url": "https://wallstreetcn.com/livenews/3085988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
+          "url": "https://wallstreetcn.com/livenews/3085261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260410043300021800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -2488,41 +2609,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
-          "url": "https://wallstreetcn.com/livenews/3085261",
+          "title": "10年期美债收益率刷新日高，投资者关注美国短期通胀预期",
+          "url": "https://wallstreetcn.com/livenews/3085978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260410043300021800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "22时45分"
         }
       ]
     }
